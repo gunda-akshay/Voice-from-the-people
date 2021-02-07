@@ -36,11 +36,10 @@ VAST-2019-MC3-Srujan/Images/* - The image files necessary to represent the visua
 VAST-2019-MC3-Srujan/preprocessing/* - The preprocessing scripts used to generate derived attributes.
 
 ## Team Members
-| NAME                | STUDENT ID    |     EMAIL ID    |
-|---------------------|:-------------:| ---------------:| 
-| Akanksha Magod      |  1217135543   | amagod@asu.edu  | 
-| Akshay Kumar Gunda  |  1217179379   | agunda1@asu.edu | 
-| Anish Oswal         |  1217914776   | aaoswal@asu.edu | 
-| Bhavya Talluri      |  1217178937   | srtallur@asu.edu| 
-| Pranay Singhal      |  1217208395   | psingha6@asu.edu| 
-| Sai Srujan Jaligama |  1217179392   | sjaliga1@asu.edu| 
+
+Akshay Kumar Gunda
+Sai Srujan Jaligama
+Bhavya Talluri
+Anish Oswal
+Pranay Singhal
+Akanksha Magod

@@ -37,9 +37,9 @@ VAST-2019-MC3-Srujan/preprocessing/* - The preprocessing scripts used to generat
 
 ## Team Members
 
-Akshay Kumar Gunda
-Sai Srujan Jaligama
-Bhavya Talluri
-Anish Oswal
-Pranay Singhal
-Akanksha Magod
+Akshay Kumar Gunda \
+Sai Srujan Jaligama \
+Bhavya Talluri \
+Anish Oswal \
+Pranay Singhal \
+Akanksha Magod \
